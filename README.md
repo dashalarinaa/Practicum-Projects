@@ -2,6 +2,6 @@
 
 **Сертификаты**
 
-1. <image src="https://stepik.org/cert/2483578" alt="Курс А/Б-тесты с Глебом Михайловым">
+1. <image src="https://stepik.org/certificate/864ea4dd05243a7eec44a84c06faa477cbd57389.png?resolution=low" alt="Курс А/Б-тесты с Глебом Михайловым">
 
 
