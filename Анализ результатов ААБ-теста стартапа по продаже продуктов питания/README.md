@@ -15,4 +15,4 @@
 
 ## Используемые библиотеки
 
-pandas, matplotlib, seaborn, numpy, scipy, phik, plotly
+pandas, matplotlib, seaborn, numpy, scipy,  plotly
